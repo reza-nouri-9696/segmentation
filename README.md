@@ -1,6 +1,3 @@
-# segmentation
-Here is the README.md in GitHub markdown format:
-
 # VAE Image Segmentation
 
 This project implements a variational autoencoder (VAE) for image segmentation. The model is trained on image datasets containing input images and corresponding segmentation masks.
