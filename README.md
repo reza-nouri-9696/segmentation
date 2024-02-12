@@ -1,7 +1,7 @@
 # VAE Image Segmentation
 
 This project implements a variational autoencoder (VAE) for image segmentation. The model is trained on image datasets containing input images and corresponding segmentation masks.
-
+-cityscapes dataset: https://www.kaggle.com/datasets/dansbecker/cityscapes-image-pairs
 ## Model Architecture
 
 The VAE model consists of:
